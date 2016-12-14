@@ -1,0 +1,26 @@
+{
+  "name": "keep",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@exponent/ex-navigation": "^2.1.5",
+    "@exponent/vector-icons": "~2.0.3",
+    "exponent": "~11.0.2",
+    "firebase": "^3.6.3",
+    "lodash": "^4.17.2",
+    "moment": "^2.17.1",
+    "react": "~15.3.2",
+    "react-native": "git+https://github.com/exponentjs/react-native#sdk-11.0.3",
+    "react-native-button": "^1.7.1",
+    "react-native-material-button": "0.0.4",
+    "react-native-material-ui": "^1.5.0",
+    "react-native-md-textinput": "^2.0.4",
+    "react-native-vector-icons": "^3.0.0",
+    "react-redux": "^4.4.6",
+    "redux": "^3.6.0",
+    "redux-thunk": "^2.1.0"
+  }
+}
